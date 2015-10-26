@@ -22,8 +22,8 @@ Notes:
 1)  This document is in a parsable format similar to asciidoc.  I have used
     this format for MANY years (I may upload a tool or migrate to asciidoc).
 
-2)  This project is mainly to experiment with github and with JAVA.  It is
-    losely based on my wh_test_py github repository.
+2)  This project is mainly to create some examples in the JAVA language.
+    It is loosely based on my wh_test_py github repository.
 
 3)  License for ALL files is GPL, see LICENSE.
 

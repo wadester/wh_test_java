@@ -16,7 +16,7 @@ JFLAGS=$(DEBUG_FLAGS) $(INCLUDE)
 LIBS=
 
 # define binaries so we have a list for build rules and cleanup
-BINS=HelloWorld.class
+BINS=HelloWorld.class HelloWorldToo.class
 
 # build test programs
 all: $(BINS)
